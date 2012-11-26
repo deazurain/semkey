@@ -1,0 +1,21 @@
+{
+  "name": "semkey",
+  "version": "0.0.0",
+  "description": "Semantic Hotkeys jQuery plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:deazurain/semkey"
+  },
+  "keywords": [
+    "jquery",
+    "plugin",
+    "semantic",
+    "hotkey"
+  ],
+  "author": "Mick van Gelderen",
+  "license": "BSD"
+}
